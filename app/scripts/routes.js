@@ -1010,6 +1010,9 @@
             .when('/selfservice/createuser/:clientId',{
                 templateUrl: 'views/selfservice/createuser.html'
             })
+            .when('/clienttoaccountingheadertransfer', {
+                templateUrl: 'views/accounting/clienttoaccountingheadertransfer.html'
+            })
             .otherwise({
                 templateUrl: "views/errors/404.html"
             });

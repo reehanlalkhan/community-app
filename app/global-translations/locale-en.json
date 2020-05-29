@@ -4234,5 +4234,8 @@
   "label.input.transfer.to.account" : "Transfer To Savings Account",
   "validation.msg.fixeddepositaccount.transferToSavingsId.cannot.be.blank" : "Savings account for transfer cannot be blank.",
 
+  "label.heading.membertoaccountheader.transferentry" : "Client Accounting Transfers",
+  "label.listof.membertoaccountheader.transferentry" : "Transfer amount between Client ledgers and accounting header",
+
   "----End---": "--End of file--- "
 }

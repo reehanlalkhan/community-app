@@ -143,6 +143,7 @@ define(['Q', 'underscore', 'mifosX'], function (Q) {
             'accounting/ViewFinancialActivityController',
             'accounting/EditFinancialActivityMappingController',
             'accounting/PeriodicAccrualAccountingController',
+            'accounting/ClientToAccountingHeaderTransfer',
             'system/CodeController',
             'system/EditCodeController',
             'system/ViewCodeController',
